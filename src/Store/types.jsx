@@ -1,0 +1,6 @@
+export const INCREMENT = "calc/incBy1"
+export const DECREMENT = "calc/decBy1"
+export const ADD_X = "calc/addX"
+export const SUBTRACT_X = "calc/subX"
+export const MULTIPLY_X = "calc/multiplyX"
+export const DIVIDE_X = "calc/divideX"
